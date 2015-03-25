@@ -16,7 +16,7 @@ Species name list is a txt file which contains species name. Format is one speci
     Atelopus spurrelli
     Austrochaperina basipalmata
 
-User should notice that file encoding. This file must encoding in ASCII encoding. Special character is not allowed. If it is wrong, please see faq.md.
+User should notice that file encoding. This file must be encoded in ASCII fomat. Special character is not allowed. If it is wrong, please see faq.md.
 
 ### Upload to SDMdata
 Interface screenshot:
