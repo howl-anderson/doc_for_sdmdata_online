@@ -1,5 +1,5 @@
 # Tutorial of SDMdata online
-Work still in progress.
+Work is still in progress.
 
 ## Input species name list
 ### Species name list file
@@ -16,7 +16,7 @@ Species name list is a txt file which contains species name. Format is one speci
     Atelopus spurrelli
     Austrochaperina basipalmata
 
-User should notice that file encoding. This file must be encoded in ASCII fomat. Special character is not allowed. If it is wrong, please see faq.md.
+User should notice the file encoding. This file must be encoded in ASCII fomat. Special character is not allowed. If it is wrong, please see faq.md.
 
 ### Upload to SDMdata
 Interface screenshot:
@@ -24,7 +24,7 @@ Interface screenshot:
 ![](./upload_species.png)
 
 ## Check species name
-Interface scrrenshot:
+Interface screenshot:
 
 ![](check_species_name.png)
 
