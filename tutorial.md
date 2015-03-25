@@ -3,7 +3,7 @@ Work still in progress.
 
 ## Input species name list
 ### Species name list file
-Species name list are a txt file which contains species name. Format is easy: one species per line. for example:
+Species name list is a txt file which contains species name. Format is one species per line. For example:
 
     Anomaloglossus tepuyensis
     Arthroleptis variabilis
