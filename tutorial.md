@@ -3,7 +3,7 @@ Work still in progress.
 
 ## Input species name list
 ### Species name list file
-user's species name list are a txt file which contained species name. Format is easy: one species name one line. for example:
+Species name list are a txt file which contains species name. Format is easy: one species per line. for example:
 
     Anomaloglossus tepuyensis
     Arthroleptis variabilis
@@ -16,7 +16,7 @@ user's species name list are a txt file which contained species name. Format is 
     Atelopus spurrelli
     Austrochaperina basipalmata
 
-User shold notice that file encoding. This file must encoding in ASCII encoding. special character is not allowed. If you get wrong see faq.md
+User should notice that file encoding. This file must encoding in ASCII encoding. Special character is not allowed. If it is wrong, please see faq.md.
 
 ### Upload to SDMdata
 Interface screenshot:
@@ -33,19 +33,17 @@ Interface screenshot:
 
 ![](check_species_button.png)
 
-## Collect Occurrence data
-Smillar to check species name. Make sure the check species name job is done before do this.
-Interface scrrenshot:
+## Collect occurrence data
+Similar to check species name. Make sure that checking species name job has been done before doing this. Interface screenshot:
 
 ![](collect_occurrence.png)
 
 ## Cross check
-Smillar to other. This a optional choice, user can jump it by "marked as checked".
-Interface scrrenshot:
+Similar to others. This an optional choice, user can jump it by "marked as checked". Interface screenshot:
 
 ![](cross_check.png)
 
 ## Export data
-Interface scrrenshot:
+Interface screenshot:
 
 ![](export_data.png)
